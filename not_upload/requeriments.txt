@@ -1,0 +1,22 @@
+Packages:
+httpd
+mariadb
+mariadb-server
+php
+php-gd
+php-ldap
+php-odbc
+php-pear
+php-xml
+php-xmlrpc
+php-mbstring
+php-snmp
+php-soap
+curl
+curl-devel
+php-mysql
+php-mcrypt
+
+Php Config:
+#Add to php.ini
+date.timezone = "Europe/Madrid"

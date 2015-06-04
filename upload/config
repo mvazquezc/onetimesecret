@@ -1,0 +1,25 @@
+[General Settings]
+appUrl = "https://your.domain.com";
+cryptKey = "something hard to guess";
+siteName = "Your Site Name";
+logo = "logo.png";
+
+
+[Database Settings]
+dbHost = "your database host";
+dbUser = "database user";
+dbPassword = "database user password";
+dbName = "database name";
+
+[Mail Settings]
+smtpHost = "your mail server";
+smtpAuth = "true or false";
+smtpUser = "your smtp user";
+smtpPassword = "smtp user password";
+smtpSecure = "none, ssl or tls";
+smtpPort = "smtp port";
+smtpFromAddress = "mail from address";
+smtpFromName = "mail from name";
+mailSubject = "mail subject";
+mailMessage = "<p>Hello:</p><p>Someone shared a secret with you. If you want to see it, please check out the following URL</p>";
+passwordMessage = "<p>The secret is password protected, you must use password:</p>";
