@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <?php
 /*
- * Description: One Time Secret Scytl's Software
- * Author: mario.vazquez[at]scytl.com
  * Date: 10/12/2014
  */
 include ('secret.php');
